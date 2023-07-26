@@ -40,7 +40,7 @@ This project is currently in development, and its purpose is to...
 
 ## Contributing
 
-I'm using this repository primarily for my personal learning journey in Java programming, and I am not actively seeking contributions at this time. However, if you have suggestions, improvements, or found any issues in the code, you're welcome to open an issue or reach out to me via email (your.email@example.com).
+I'm using this repository primarily for my personal learning journey in Java programming, and I am not actively seeking contributions at this time. However, if you have suggestions, improvements, or found any issues in the code, you're welcome to open an issue or reach out to me via email (your.zhongm@tcd.ie).
 
 ## License
 
