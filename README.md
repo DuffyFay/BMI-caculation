@@ -28,7 +28,7 @@ The `LeapYear` Java program checks whether a given year is a leap year or not. I
 
 ## Lottery game
 
-The 'Lottery' Java program generates a random 2 digits number. The user will input a number of his/her choice, if the number matches lottery, the user will be rewarded €30,000, if only one digit matches, the user will be rewarded €3,000, if one digit match even in a different order, the user will be rewarded €1,000.
+The `Lottery` Java program generates a random 2 digits number. The user will input a number of his/her choice, if the number matches lottery, the user will be rewarded €30,000, if only one digit matches, the user will be rewarded €3,000, if one digit match even in a different order, the user will be rewarded €1,000.
 
 ## Project Y
 
