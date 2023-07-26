@@ -12,7 +12,7 @@ As a novice Java programmer, I am working on various small projects to grasp the
 
 1. [BMI Calculation](#bmi-calculation)
 2. [Leap Year Checker](#leap-year-checker)
-3. [Project X](#project-x)
+3. [Lottery game](#Lottery)
 4. [Project Y](#project-y)
 5. [Project Z](#project-z)
 6. [Contributing](#contributing)
@@ -26,9 +26,9 @@ The `BMI_Calculation` Java program calculates the Body Mass Index (BMI) of a per
 
 The `LeapYear` Java program checks whether a given year is a leap year or not. It asks the user to input a year, and based on the leap year rules, it determines if the provided year is a leap year or a common year.
 
-## Project X
+## Lottery game
 
-This project is currently in development, and its purpose is to...
+The 'Lottery' Java program generates a random 2 digits number. The user will input a number of his/her choice, if the number matches lottery, the user will be rewarded €30,000, if only one digit matches, the user will be rewarded €3,000, if one digit match even in a different order, the user will be rewarded €1,000.
 
 ## Project Y
 
