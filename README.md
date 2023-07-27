@@ -26,13 +26,13 @@ The `BMI_Calculation` Java program calculates the Body Mass Index (BMI) of a per
 
 The `LeapYear` Java program checks whether a given year is a leap year or not. It asks the user to input a year, and based on the leap year rules, it determines if the provided year is a leap year or a common year.
 
-## Lottery game
+## Lottery Game
 
-The `Lottery` Java program generates a random 2 digits number. The user will input a number of his/her choice, if the number matches lottery, the user will be rewarded €30,000, if only one digit matches, the user will be rewarded €3,000, if one digit match even in a different order, the user will be rewarded €1,000.
+The `Lottery` Java program generates a random 2 digits number. The user will input a number of his/her choice, if the number matches the lottery, the user will be rewarded €30,000, if only one digit matches, the user will be rewarded €3,000, if one digit match even in a different order, the user will be rewarded €1,000.
 
-## Zodiac finder
+## Zodiac Finder
 
-The `zodiac` program to find out the Chinese Zodiac sign for a given year. The Chi- nese Zodiac is based on a 12-year cycle, with each year represented by an animal—monkey, rooster, dog, pig, rat, ox, tiger, rabbit, dragon, snake, horse, or sheep.
+The `zodiac` program to find out the Chinese Zodiac sign for a given year. The Chinese Zodiac is based on a 12-year cycle, with each year represented by an animal—monkey, rooster, dog, pig, rat, ox, tiger, rabbit, dragon, snake, horse, or sheep.
 
 ## Project Z
 
