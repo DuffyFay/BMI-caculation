@@ -14,7 +14,7 @@ As a novice Java programmer, I am working on various small projects to grasp the
 2. [Leap Year Checker](#leap-year-checker)
 3. [Lottery game](#Lottery)
 4. [Zodiac finder](#zodiac)
-5. [Project Z](#project-z)
+5. [Quadratic Equations Solver](#quadraticEquationsSolver)
 6. [Contributing](#contributing)
 7. [License](#license)
 
@@ -34,9 +34,10 @@ The `Lottery` Java program generates a random 2 digits number. The user will inp
 
 The `zodiac` program to find out the Chinese Zodiac sign for a given year. The Chinese Zodiac is based on a 12-year cycle, with each year represented by an animal—monkey, rooster, dog, pig, rat, ox, tiger, rabbit, dragon, snake, horse, or sheep.
 
-## Project Z
+## Quadratic Equations Solver
 
-This project is currently in development, and its purpose is to...
+The `quadraticEquationsSolver` is a simple Java program that allows users to solve quadratic equations of the form ax^2 + bx + c = 0. The program takes input for coefficients 'a', 'b', and 'c' from the user and then calculates the discriminant to determine the nature of the roots of the quadratic equation. Based on the discriminant, the program outputs the results indicating the number and values of the roots.
+
 
 ## Contributing
 
