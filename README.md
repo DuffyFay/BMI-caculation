@@ -15,8 +15,9 @@ As a novice Java programmer, I am working on various small projects to grasp the
 3. [Lottery game](#Lottery)
 4. [Zodiac finder](#zodiac)
 5. [Quadratic Equations Solver](#quadraticEquationsSolver)
-6. [Contributing](#contributing)
-7. [License](#license)
+6. [Angle Computation for a Triangle](#ComputeAngles)
+7. [Contributing](#contributing)
+8. [License](#license)
 
 ## BMI Calculation
 
@@ -37,6 +38,10 @@ The `zodiac` program to find out the Chinese Zodiac sign for a given year. The C
 ## Quadratic Equations Solver
 
 The `quadraticEquationsSolver` is a simple Java program that allows users to solve quadratic equations of the form ax^2 + bx + c = 0. The program takes input for coefficients 'a', 'b', and 'c' from the user and then calculates the discriminant to determine the nature of the roots of the quadratic equation. Based on the discriminant, the program outputs the results indicating the number and values of the roots.
+
+## Angle Computation for a Triangle
+
+The `ComputeAngles` is a Java program computes the angles of a triangle given the coordinates of its three vertices. The user is prompted to enter the x and y coordinates for each point, and the program calculates the lengths of the sides and subsequently the angles using trigonometric formulas.
 
 
 ## Contributing
