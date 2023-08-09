@@ -16,8 +16,9 @@ As a novice Java programmer, I am working on various small projects to grasp the
 4. [Zodiac finder](#zodiac)
 5. [Quadratic Equations Solver](#quadraticEquationsSolver)
 6. [Angle Computation for a Triangle](#ComputeAngles)
-7. [Contributing](#contributing)
-8. [License](#license)
+7. [Full Name Separator](#FullNameSeparator)
+8. [Contributing](#contributing)
+9. [License](#license)
 
 ## BMI Calculation
 
@@ -42,6 +43,10 @@ The `quadraticEquationsSolver` is a simple Java program that allows users to sol
 ## Angle Computation for a Triangle
 
 The `ComputeAngles` is a Java program computes the angles of a triangle given the coordinates of its three vertices. The user is prompted to enter the x and y coordinates for each point, and the program calculates the lengths of the sides and subsequently the angles using trigonometric formulas.
+
+## FullNameSeparator
+
+The `FullNameSeparator` program is a simple Java application that takes user input for a full name (first name and last name) and separates it into individual components. It utilizes the Scanner class to read user input, finds the index of the space character to identify the separation between first and last names, and then extracts and displays both components. This program demonstrates basic string manipulation and input handling in Java.
 
 
 ## Contributing
