@@ -17,8 +17,9 @@ As a novice Java programmer, I am working on various small projects to grasp the
 5. [Quadratic Equations Solver](#quadraticEquationsSolver)
 6. [Angle Computation for a Triangle](#ComputeAngles)
 7. [Full Name Separator](#FullNameSeparator)
-8. [Contributing](#contributing)
-9. [License](#license)
+8. [Multiplication Table](#MultiplicationTable)
+9. [Contributing](#contributing)
+10. [License](#license)
 
 ## BMI Calculation
 
@@ -48,10 +49,23 @@ The `ComputeAngles` is a Java program computes the angles of a triangle given th
 
 The `FullNameSeparator` program is a simple Java application that takes user input for a full name (first name and last name) and separates it into individual components. It utilizes the Scanner class to read user input, finds the index of the space character to identify the separation between first and last names, and then extracts and displays both components. This program demonstrates basic string manipulation and input handling in Java.
 
+## MultiplicationTable
+
+The `MultiplicationTable` program generates a multiplication table and prints it to the console. It's a simple yet educational example that showcases nested loops and formatting in Java programming. The program starts by printing the header and column labels, followed by a formatted grid of multiplication results from 1x1 to 9x9. It serves as a great introductory code snippet for those learning about loops and basic formatting in Java.
+
+Key features:
+
+Demonstrates the use of nested loops for table generation.
+Utilizes printf for neatly formatting the multiplication results.
+Enhances understanding of control structures and console output manipulation in Java.
+
 
 ## Contributing
 
 I'm using this repository primarily for my personal learning journey in Java programming, and I am not actively seeking contributions at this time. However, if you have suggestions, improvements, or found any issues in the code, you're welcome to open an issue or reach out to me via email (zhongm@tcd.ie).
+
+
+
 
 ## License
 
