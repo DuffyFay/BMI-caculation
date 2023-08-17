@@ -18,8 +18,9 @@ As a novice Java programmer, I am working on various small projects to grasp the
 6. [Angle Computation for a Triangle](#ComputeAngles)
 7. [Full Name Separator](#FullNameSeparator)
 8. [Multiplication Table](#MultiplicationTable)
-9. [Contributing](#contributing)
-10. [License](#license)
+9. [GreatestCommonDivisor](#greatestCommonDivisor)
+10. [Contributing](#contributing)
+11. [License](#license)
 
 ## BMI Calculation
 
@@ -52,6 +53,16 @@ The `FullNameSeparator` program is a simple Java application that takes user inp
 ## MultiplicationTable
 
 The `MultiplicationTable` program generates a multiplication table and prints it to the console. It's a simple yet educational example that showcases nested loops and formatting in Java programming. The program starts by printing the header and column labels, followed by a formatted grid of multiplication results from 1x1 to 9x9. It serves as a great introductory code snippet for those learning about loops and basic formatting in Java.
+
+Key features:
+
+Demonstrates the use of nested loops for table generation.
+Utilizes printf for neatly formatting the multiplication results.
+Enhances understanding of control structures and console output manipulation in Java.
+
+## GreatestCommonDivisor
+
+The `greatestCommonDivisor` program prompts the user to input two integers and calculates their Greatest Common Divisor (GCD). The GCD of two integers is the largest positive integer that divides both numbers without a remainder. This program employs a simple iterative method to find the GCD.
 
 Key features:
 
