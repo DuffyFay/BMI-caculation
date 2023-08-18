@@ -20,8 +20,9 @@ As a novice Java programmer, I am working on various small projects to grasp the
 8. [Multiplication Table](#MultiplicationTable)
 9. [GreatestCommonDivisor](#greatestCommonDivisor)
 10. [Palindrome Checker](#Palindrome)
-11. [Contributing](#contributing)
-12. [License](#license)
+11. [Prime Numbers Display](#PrimeNumberDisplay)
+12. [Contributing](#contributing)
+13. [License](#license)
 
 ## BMI Calculation
 
@@ -82,6 +83,17 @@ Efficiently breaks out of the loop as soon as a non-matching character pair is f
 Simple and easy-to-understand code structure.
 
 Perfect for beginners trying to understand string manipulations and basic algorithms in Java.
+
+## Prime Numbers Display
+
+This program displays the first 50 prime numbers neatly formatted in rows of 10 numbers each. Prime numbers are integers greater than 1 that have only two positive divisors: 1 and themselves. For instance, the first six prime numbers are 2, 3, 5, 7, 11, and 13. The purpose of this repository is to provide a simple, understandable demonstration of prime number identification and display in Java.
+
+Features:
+
+Utilizes a basic while loop to find the prime numbers.
+Implements an efficient primality test by checking divisibility only up to half of the number.
+Flexible: Easily adjustable for the number of primes displayed (NUMBER_OF_PRIMES) and the number of primes per line (NUMBER_OF_PRIMES_PER_LINE).
+Outputs the prime numbers in a neat and organized format.
 
 ## Contributing
 
