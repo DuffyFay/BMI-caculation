@@ -1,4 +1,4 @@
-# Java Programming Project Repository
+# Java Beginner Projects: Dive into Java with Hands-on Examples!
 
 ![Java Logo](https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg)
 
