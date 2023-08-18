@@ -19,8 +19,9 @@ As a novice Java programmer, I am working on various small projects to grasp the
 7. [Full Name Separator](#FullNameSeparator)
 8. [Multiplication Table](#MultiplicationTable)
 9. [GreatestCommonDivisor](#greatestCommonDivisor)
-10. [Contributing](#contributing)
-11. [License](#license)
+10. [Java Palindrome Checker](#Palindrome)
+11. [Contributing](#contributing)
+12. [License](#license)
 
 ## BMI Calculation
 
@@ -70,6 +71,16 @@ Demonstrates the use of nested loops for table generation.
 Utilizes printf for neatly formatting the multiplication results.
 Enhances understanding of control structures and console output manipulation in Java.
 
+## Java Palindrome Checker
+
+This Java program prompts the user to input a string and then checks if the entered string is a palindrome. A palindrome is a word, phrase, number, or other sequences of characters that reads the same forward and backward (ignoring spaces, punctuation, and capitalization). If the input string qualifies as a palindrome, the program will print "[input string] is a palindrome", otherwise it will print "[input string] is not a palindrome".
+
+Features:
+
+Utilizes a two-pointer approach to compare characters from the beginning and end of the string.
+Efficiently breaks out of the loop as soon as a non-matching character pair is found.
+Simple and easy-to-understand code structure.
+Perfect for beginners trying to understand string manipulations and basic algorithms in Java.
 
 ## Contributing
 
