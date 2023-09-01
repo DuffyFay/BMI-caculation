@@ -22,8 +22,9 @@ As a novice Java programmer, I am working on various small projects to grasp the
 10. [Palindrome Checker](#Palindrome)
 11. [Prime Numbers Display](#PrimeNumberDisplay)
 12. [Average And Count Above](#AverageAndCountAbove)
-13. [Contributing](#contributing)
-14. [License](#license)
+13. [Card Deck Shuffle](#CardDeckShuffle)
+14. [Contributing](#contributing)
+15. [License](#license)
 
 ## BMI Calculation
 
@@ -99,6 +100,11 @@ Outputs the prime numbers in a neat and organized format.
 ## Average And Count Above
 
 This Java program calculates the average of a set of numbers and then determines how many of those numbers are above the average. The program first prompts the user to enter the number of items, then takes each number as input and calculates the sum. After that, it computes the average and iterates through the numbers again to count how many numbers are above the average. Finally, it prints out the average and the count of numbers above the average.
+
+## Card Deck Shuffle
+
+This Java program simulates the shuffling of a deck of cards and then displays the first four cards from the shuffled deck. The deck is represented as an array of integers, where each integer corresponds to a card. The program also contains arrays for the four suits (♠,♥,♦,♣) and the thirteen ranks (Ace, 2, 3, ..., King). The program starts by initializing the deck so that the integer at each position corresponds to the order of the cards (0 for the first card, 1 for the second, etc.). It then shuffles the deck by randomly swapping the cards. Finally, it prints out the first four cards of the shuffled deck by calculating the suit and rank corresponding to each integer in the deck array.
+
 
 ## Contributing
 
