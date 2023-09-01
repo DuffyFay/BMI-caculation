@@ -21,8 +21,9 @@ As a novice Java programmer, I am working on various small projects to grasp the
 9. [GreatestCommonDivisor](#greatestCommonDivisor)
 10. [Palindrome Checker](#Palindrome)
 11. [Prime Numbers Display](#PrimeNumberDisplay)
-12. [Contributing](#contributing)
-13. [License](#license)
+12. [Average And Count Above](#AverageAndCountAbove)
+13. [Contributing](#contributing)
+14. [License](#license)
 
 ## BMI Calculation
 
@@ -94,6 +95,10 @@ Utilizes a basic while loop to find the prime numbers.
 Implements an efficient primality test by checking divisibility only up to half of the number.
 Flexible: Easily adjustable for the number of primes displayed (NUMBER_OF_PRIMES) and the number of primes per line (NUMBER_OF_PRIMES_PER_LINE).
 Outputs the prime numbers in a neat and organized format.
+
+## Average And Count Above
+
+This Java program calculates the average of a set of numbers and then determines how many of those numbers are above the average. The program first prompts the user to enter the number of items, then takes each number as input and calculates the sum. After that, it computes the average and iterates through the numbers again to count how many numbers are above the average. Finally, it prints out the average and the count of numbers above the average.
 
 ## Contributing
 
