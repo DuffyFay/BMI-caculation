@@ -25,7 +25,7 @@ As a novice Java programmer, I am working on various small projects to grasp the
 13. [Card Deck Shuffle](#CardDeckShuffle)
 14. [Test Swap Array](#TestSwapArray)
 15. [Contributing](#contributing)
-16. [Count Letters In Array] (#CountLettersInArray)
+16. [Count Letters In Array](#CountLettersInArray)
 17. [License](#license)
 
 ## BMI Calculation
