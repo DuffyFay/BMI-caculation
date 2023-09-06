@@ -25,7 +25,8 @@ As a novice Java programmer, I am working on various small projects to grasp the
 13. [Card Deck Shuffle](#CardDeckShuffle)
 14. [Test Swap Array](#TestSwapArray)
 15. [Contributing](#contributing)
-16. [License](#license)
+16. [Count Letters In Array] (#CountLettersInArray)
+17. [License](#license)
 
 ## BMI Calculation
 
@@ -141,6 +142,23 @@ The provided code serves as an educational illustration for understanding the co
    
    - This introduces the heap space concept, where objects (like arrays) reside in memory.
 
+## Count Letters In Array
+
+This Java program generates an array of 100 random lowercase letters. It then displays the generated letters and counts the occurrences of each letter in the array, outputting the counts for a comprehensive overview.
+
+**Features:**
+- **RandomCharacter Class**: A utility class that provides a method to generate a random lowercase letter.
+- **createArray Method**: Generates an array of 100 random lowercase letters.
+- **displayArray Method**: Displays the generated letters, breaking the line every 20 letters for readability.
+- **countLetters Method**: Counts the occurrences of each lowercase letter in the provided array.
+- **displayCounts Method**: Displays the counts of each letter in a structured format, breaking the line every 10 letters for clarity.
+
+Usage:
+Simply run the `Main` class to see the list of generated lowercase letters followed by their respective counts.
+
+---
+
+You can use this description as a README.md for your GitHub repository or adjust it as needed.
 
 ## Contributing
 
