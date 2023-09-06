@@ -23,8 +23,9 @@ As a novice Java programmer, I am working on various small projects to grasp the
 11. [Prime Numbers Display](#PrimeNumberDisplay)
 12. [Average And Count Above](#AverageAndCountAbove)
 13. [Card Deck Shuffle](#CardDeckShuffle)
-14. [Contributing](#contributing)
-15. [License](#license)
+14. [Test Swap Array](#TestSwapArray)
+15. [Contributing](#contributing)
+16. [License](#license)
 
 ## BMI Calculation
 
@@ -104,6 +105,41 @@ This Java program calculates the average of a set of numbers and then determines
 ## Card Deck Shuffle
 
 This Java program simulates the shuffling of a deck of cards and then displays the first four cards from the shuffled deck. The deck is represented as an array of integers, where each integer corresponds to a card. The program also contains arrays for the four suits (♠,♥,♦,♣) and the thirteen ranks (Ace, 2, 3, ..., King). The program starts by initializing the deck so that the integer at each position corresponds to the order of the cards (0 for the first card, 1 for the second, etc.). It then shuffles the deck by randomly swapping the cards. Finally, it prints out the first four cards of the shuffled deck by calculating the suit and rank corresponding to each integer in the deck array.
+
+## Test Swap Array
+
+**Description:**
+
+The provided code serves as an educational illustration for understanding the concept of passing by value and passing by reference, and introducing how the stack and the heap memory spaces operate in Java.
+
+**Breakdown:**
+
+1. **Main Class and the Main Method**: 
+   - `int[] a = { 6, 9};` : An integer array named 'a' is created with two elements: 6 and 9.
+
+   - The initial values of the array are printed.
+
+   - The `swap` method is called with the two integer values of the array. The purpose is to demonstrate that, in Java, primitive data types (like int) are passed by value. This means that the method will get copies of the values and any changes made inside the method will not reflect outside of it.
+
+   - After the swap method invocation, the original values of the array 'a' are printed again to prove that they remain unchanged.
+
+   - The `swapFirstTwoInArray` method is then called with the entire array. This demonstrates that, in Java, arrays are objects and are passed by reference. This means that the method will get a reference to the original array and any changes made inside the method will reflect outside of it.
+
+   - After the `swapFirstTwoInArray` method invocation, the modified values of the array 'a' are printed to show that they have been swapped.
+
+2. **swap Method**: 
+   - Takes in two integers, n1 and n2.
+   
+   - The values of n1 and n2 are swapped inside the method. But since the method received copies (because of pass-by-value), the original values outside the method remain unchanged.
+   
+   - This demonstrates the usage of the stack, where local primitive variables reside. 
+
+3. **swapFirstTwoInArray Method**: 
+   - Takes in an integer array.
+   
+   - The first two elements of this array are swapped. Since arrays are passed by reference, these changes will be seen outside the method as well.
+   
+   - This introduces the heap space concept, where objects (like arrays) reside in memory.
 
 
 ## Contributing
